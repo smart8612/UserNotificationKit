@@ -11,7 +11,7 @@ import UserNotifications
 
 public final class UserNotificationCenterController {
     
-    static let shared = UserNotificationCenterController()
+    public static let shared = UserNotificationCenterController()
     
     private init() {}
     

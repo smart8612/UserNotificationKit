@@ -13,9 +13,6 @@ let package = Package(
         .library(
             name: "UserNotificationKit",
             targets: ["UserNotificationKit"]),
-        .library(
-            name: "UserNotifications",
-            targets: ["UserNotificationKit"])
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
