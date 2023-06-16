@@ -4,6 +4,8 @@
 
 * 앱에 UserNotifications 프레임워크의 Local Notification 기능을 손쉽게 추가할 수 있습니다.
 
+* Notification 정보를 하나의 구조체 타입으로 관리할 수 있습니다.
+
 * 사용자에게 Notification을 발송하고 연관된 이벤트를 처리할 수 있습니다.
 
 ## 📰 Related Articles
